@@ -113,7 +113,6 @@ A meta final é dominar:
 **Lucas Schwartz de Souza**  
 🎓 FURB | Estudante de Sistemas de Informação  
 📍 Blumenau, SC  
-
 🔗 [LinkedIn](https://www.linkedin.com/in/lucas-schwartz-souza)  
 🐙 [GitHub](https://www.github.com/SchwartzLucas)
 
