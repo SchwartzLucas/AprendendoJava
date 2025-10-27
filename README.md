@@ -23,7 +23,7 @@
 
 🩶 **Concluído** 🟦 **Em andamento** 🟨 **A fazer**
 
-
+```
 Java Roadmap
 │
 ├── ☕ Learn the Basics
@@ -96,7 +96,7 @@ Framework Spring Boot
 Boas práticas e padrões de projeto
 
 Integração de sistemas e APIs
-
+```
 👨‍💻 Autor
 Lucas Schwartz de Souza
 🎓 FURB | Estudante de Sistemas de Informação
