@@ -96,12 +96,15 @@ Framework Spring Boot
 Boas práticas e padrões de projeto
 
 Integração de sistemas e APIs
-```
+
 👨‍💻 Autor
 Lucas Schwartz de Souza
 🎓 FURB | Estudante de Sistemas de Informação
 📍 Blumenau, SC
+```
 🔗 LinkedIn: https://www.linkedin.com/in/lucas-schwartz-souza
-🐙 GitHub: github.com/SchwartzLucas
+```
+```
+🐙 GitHub: https://www.github.com/SchwartzLucas
 
 <p align="center">⭐ Se este projeto te inspirar, deixe um <b>Star</b> para acompanhar minha evolução! </p> ```
