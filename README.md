@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Language-Java-red?logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Notes-Obsidian-7C3AED?logo=obsidian&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Em%20Evolução-blue?logo=github" />
-  <img src="https://img.shields.io/github/last-commit/SEU-USUARIO/SEU-REPOSITORIO?color=green&label=Último%20Commit" />
+  <img src="https://img.shields.io/github/last-commit/SchwartzLucas/AprendendoJava?color=green&label=Último%20Commit" />
 </p>
 
 ---
