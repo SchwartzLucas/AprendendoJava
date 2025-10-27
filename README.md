@@ -32,18 +32,18 @@ Java Roadmap
 │   ├── 🩶 Operators & Type Casting
 │   └── 🩶 Control Flow (if, loops, switch)
 │
-├── 🩶 Object-Oriented Programming (OOP)
+├── 🟦 Object-Oriented Programming (OOP)
 │   ├── 🩶 Classes & Objects
-│   ├── 🩶 Methods, Overloading, Constructors
+│   ├── 🟦 Methods, Overloading, Constructors
 │   ├── 🩶 Access Modifiers, Packages
-│   ├── 🩶 Inheritance, Encapsulation, Polymorphism, Abstraction
+│   ├── 🟦 Inheritance, Encapsulation, Polymorphism, Abstraction
 │   └── 🩶 Static, This, Super, Final
 │
-├── 🟦 Exception Handling & Lambdas
-│   ├── 🟦 Exception Handling
-│   ├── 🟦 Lambda Expressions
-│   ├── 🟦 Annotations & Modules
-│   └── 🟦 Optional
+├── 🟨 Exception Handling & Lambdas
+│   ├── 🟨 Exception Handling
+│   ├── 🟨 Lambda Expressions
+│   ├── 🟨 Annotations & Modules
+│   └── 🟨 Optional
 │
 ├── 🟨 Core Java APIs
 │   ├── 🟨 Cryptography, Date/Time, Math, Regex
