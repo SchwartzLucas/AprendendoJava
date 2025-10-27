@@ -22,7 +22,7 @@
 ## 🧭 Estrutura de Aprendizado
 
 🩶 **Concluído** 🟦 **Em andamento** 🟨 **A fazer**
-
+```
 Java Roadmap
 │
 ├── ☕ Learn the Basics
@@ -66,9 +66,8 @@ Java Roadmap
 └── 🟨 Logging & Deployment
 ├── 🟨 Logging Frameworks
 └── 🟨 DevOps & Packaging
+```
 
-yaml
-Copiar código
 
 ---
 
