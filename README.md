@@ -23,7 +23,7 @@
 
 🩶 **Concluído** 🟦 **Em andamento** 🟨 **A fazer**
 
-```text
+
 Java Roadmap
 │
 ├── ☕ Learn the Basics
@@ -71,8 +71,8 @@ Java Roadmap
 🧠 Progresso Geral
 Categoria	Status	Observação
 Fundamentos	✅ Concluído	Estrutura básica, variáveis, loops, operadores
-OOP	✅ Concluído	Classes, herança, polimorfismo, encapsulamento
-Exceptions & Lambdas	🟦 Em andamento	Entendendo fluxo de erro e expressões lambda
+OOP	🟦 Em andamento 	Classes, herança, polimorfismo, encapsulamento
+Exceptions & Lambdas 🟨 A fazer	Entendendo fluxo de erro e expressões lambda
 Collections & Generics	🟨 A fazer	Próximo tópico a iniciar
 I/O, Threads e Concurrency	🟨 A fazer	Parte intermediária do roadmap
 Spring Boot & Frameworks	🟨 A fazer	Após domínio da base Java
@@ -81,16 +81,9 @@ Testes e Logging	🟨 A fazer	Última etapa de consolidação
 ⚙️ Ferramentas Utilizadas
 Ferramenta	Uso
 🟪 Obsidian	Organização das notas
-🧠 Obsidian Git	Sincronização automática com GitHub
 💻 IntelliJ IDEA 	Desenvolvimento e testes
 🐙 Git & GitHub	Versionamento e portfólio
 🧩 Markdown	Estrutura e formatação das notas
-
-🔁 Backup Automático
-Este repositório é sincronizado automaticamente com o GitHub a cada 10 minutos
-usando o plugin Obsidian Git.
-
-🕒 Última sincronização: {{date}}
 
 🎯 Objetivo
 Aprender Java de forma sólida e progressiva, construindo um repositório completo de aprendizado.
@@ -106,9 +99,9 @@ Integração de sistemas e APIs
 
 👨‍💻 Autor
 Lucas Schwartz de Souza
-🎓 Estudante de Sistemas de Informação
+🎓 FURB | Estudante de Sistemas de Informação
 📍 Blumenau, SC
-🔗 LinkedIn
-🐙 GitHub
+🔗 LinkedIn: https://www.linkedin.com/in/lucas-schwartz-souza
+🐙 GitHub: github.com/SchwartzLucas
 
-<p align="center"> ⭐ Se este projeto te inspirar, deixe um <b>Star</b> para acompanhar minha evolução! </p> ```
+<p align="center">⭐ Se este projeto te inspirar, deixe um <b>Star</b> para acompanhar minha evolução! </p> ```
