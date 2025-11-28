@@ -1,9 +1,8 @@
 import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
-import java.io.FileNotFoundException;
 
-public class Main {
+public class LeituraDeArquivoInicial {
     public static void main(String[] args) {
         File file = new File("/Users/lucasschwartzdesouza/Documents/teste.txt");
         Scanner sc = null;
