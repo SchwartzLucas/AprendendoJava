@@ -1,23 +1,18 @@
 package app;
+
 import java.io.File;
-import java.io.IOException;
+import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class LeituraDeArquivoInicial {
+
     public static void main(String[] args) {
         File file = new File("/Users/lucasschwartzdesouza/Documents/teste.txt");
-        Scanner sc = null;
-        try {
-            sc = new Scanner(file);
-            while (sc.hasNextLine()){
+        try (Scanner sc = new Scanner(file)) {
+            while (sc.hasNextLine()) {
                 System.out.println(sc.nextLine());
             }
-        } catch (IOException e) {
-            System.out.println("Error: " + e.getMessage());
-        }finally {
-            if (sc == null) {
-                sc.close();
-            }
+        } catch (FileNotFoundException ex) {
         }
     }
-    }
+}

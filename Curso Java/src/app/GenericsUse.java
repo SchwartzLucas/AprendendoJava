@@ -7,14 +7,15 @@ public class GenericsUse {
 
         PrintService ps = new PrintService();
 
-        Scanner sc = new Scanner(System.in);
-        
-        System.out.println("How many? ");
-        int resposta = sc.nextInt();
+        try (Scanner sc = new Scanner(System.in)) {
+            System.out.println("How many? ");
+            int resposta = sc.nextInt();
 
-        for(int i = 0; i < resposta; i++){
-            ps.addValue(sc.nextInt());
+            for(int i = 0; i < resposta; i++){
+                ps.addValue(sc.nextInt());
+            }
         }
+        
         ps.print();
         ps.first();
     }

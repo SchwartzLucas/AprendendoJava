@@ -20,7 +20,7 @@ public class GenericsDelimitados {
 
             String line = br.readLine();
             while(line != null){
-                list.add(Integer.parseInt(line));
+                list.add(Integer.valueOf(line));
                 line = br.readLine();
             }
 
@@ -29,11 +29,9 @@ public class GenericsDelimitados {
             System.out.println(x);
 
         } catch (FileNotFoundException e) {
-            // TODO Auto-generated catch block
-            e.printStackTrace();
+            System.out.println("Error: " + e.getMessage());
         } catch (IOException e) {
-            // TODO Auto-generated catch block
-            e.printStackTrace();
+            System.out.println("Error: " + e.getMessage());
         }
     }
 }
