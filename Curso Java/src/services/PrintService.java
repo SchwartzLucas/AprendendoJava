@@ -9,8 +9,6 @@ public class PrintService {
     public PrintService() {
     }
 
-    
-
     public void print(){
         System.out.println(list);
     }
@@ -20,6 +18,6 @@ public class PrintService {
     }
 
     public void first(){
-        list.getFirst();
+        System.out.println("First: " + list.getFirst());
     }
 }
