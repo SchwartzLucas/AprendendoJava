@@ -1,8 +1,6 @@
 package app;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
-import javax.print.PrintService;
+import services.PrintService;
 
 public class GenericsUse {
     public static void main(String[] args) {
@@ -14,12 +12,10 @@ public class GenericsUse {
         System.out.println("How many? ");
         int resposta = sc.nextInt();
 
-        List<Integer> list = new ArrayList<>();
         for(int i = 0; i < resposta; i++){
-            list.add(sc.nextInt());
+            ps.addValue(sc.nextInt());
         }
-        System.out.println(list);
-        System.out.println("First: " + list.getFirst());
-
+        ps.print();
+        ps.first();
     }
 }
